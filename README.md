@@ -1,2 +1,2 @@
 # Tugas_20_JS
-REPO TUGAS JS
+REPO TUGAS 20 JS(lanjutan) - [NIOMIC](https://niomic.com)
